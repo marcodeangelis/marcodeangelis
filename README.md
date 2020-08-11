@@ -4,11 +4,11 @@ I'm a postdoctoral research associate at the University of Liverpool.
 
 My research focuses on the rigorous and efficient uncertainty propagation through computational codes via both intrusive and non-intrusive algorithms.
 
-🔭 I am currently working on a Python library for uncertainty quantification for bounded random variables.
+🔭 I am currently working on a Python library for uncertainty quantification for bounded and unbounded random variables.
 
 💬 Ask me about: diagnostic uncertainty, error propagation, senstivity analysis, interval arithmetic, Bayesian networks, reliability analysis.
 
-🎓 I hold a PhD from University of Liverpool in general engineering. 
+🎓 I hold a PhD from University of Liverpool in engineering. 
 
 📫 You can reach me by email at `marco.de-angelis`&#128231;`liverpool.ac.uk`
 
