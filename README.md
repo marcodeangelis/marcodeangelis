@@ -6,7 +6,7 @@ My research focuses on the rigorous and efficient uncertainty propagation throug
 
 🔭 I am currently working on a Python library for uncertainty quantification for bounded and unbounded random variables.
 
-💬 Ask me about: diagnostic uncertainty, error propagation, senstivity analysis, interval arithmetic, Bayesian networks, reliability analysis.
+💬 Ask me about: diagnostic uncertainty, error propagation, senstivity analysis, interval arithmetic, belief networks, reliability analysis.
 
 🎓 I hold a PhD from University of Liverpool in engineering. 
 
