@@ -6,9 +6,9 @@ My research focuses on the rigorous and efficient uncertainty propagation throug
 
 🔭 I am currently working on a Python library for uncertainty quantification for bounded and unbounded random variables.
 
-💬 Ask me about: diagnostic uncertainty, error propagation, senstivity analysis, interval arithmetic, belief networks, reliability analysis.
+💬 Ask me about: interval analysis, reliability analysis, diagnostic uncertainty, error propagation, senstivity analysis, belief networks.
 
-🎓 I hold a PhD from University of Liverpool in engineering. 
+🎓 I hold a PhD in engineering from the University of Liverpool. 
 
 📫 You can reach me by email at `marco.de-angelis`&#128231;`liverpool.ac.uk`
 
