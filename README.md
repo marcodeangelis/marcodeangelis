@@ -4,7 +4,7 @@ I'm a postdoctoral research associate at the University of Liverpool.
 
 My research focuses on the rigorous and efficient uncertainty propagation through computational codes via both intrusive and non-intrusive algorithms.
 
-🔭 I am currently working on a Python library for uncertainty quantification for bounded and unbounded random variables.
+🔭 I am currently working on a Python library for the propagation of bounded (and unbounded) variables characterised by knowledge gaps.
 
 💬 Ask me about: interval analysis, reliability analysis, diagnostic uncertainty, error propagation, senstivity analysis, belief networks.
 
