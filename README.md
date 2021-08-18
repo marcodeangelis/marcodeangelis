@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm a postdoctoral research associate at the University of Liverpool. 
+I'm a research associate (postdoc) at the University of Liverpool. 
 
 My research focuses on the rigorous and efficient bounding of computational codes via both intrusive and non-intrusive algorithms.
 
