@@ -2,11 +2,17 @@
 
 I'm a research associate (postdoc) at the University of Liverpool. 
 
-My research focuses on the rigorous and efficient bounding of computational codes via both intrusive and non-intrusive algorithms.
+🔭 My research focuses on theoretical and practical aspects of computing with uncertainty. My areas of interest are: (1) rigorous inference from small-sized datasets; (2) propagation of uncertainty through complex computations; (3) 
 
-🔭 I am currently working on a Python library for the propagation of uncertainty characterised by gaps, due to lack of knowledge, limited sample size, limited measurement precision and more.
+I am also interested in: mathematics-based animations, pattern recognition in time-history data, neural ODEs, web-based research software. 
 
-💬 Ask me about: interval analysis, reliability analysis, diagnostic uncertainty, error propagation, senstivity analysis, belief networks.
+My research is helping shading more light on: (-) digital twins technology, (-) hard-to-diagnose diseases, (-) high-magnitude earthquakes in urban areas, (-) the quantification of measurement errors and modelling uncertainties in engineering. 
+
+<!--My research focuses on the rigorous and efficient bounding of computational codes via both intrusive and non-intrusive algorithms.
+
+🔭 I am currently working on a Python library for the propagation of uncertainty characterised by gaps, due to lack of knowledge, limited sample size, limited measurement precision and more.-->
+
+💬 Ask me about: interval analysis, probability-bounds analysis, reliability analysis, diagnostic uncertainty, error propagation, senstivity analysis, belief networks.
 
 🎓 I hold a PhD in engineering from the University of Liverpool. 
 
