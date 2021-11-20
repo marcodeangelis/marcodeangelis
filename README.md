@@ -4,9 +4,9 @@ I'm a research associate (postdoc) at the University of Liverpool.
 
 🔭 My research focuses on theoretical and practical aspects of computing with uncertainty. My areas of interest are: (1) rigorous inference from small-sized datasets with imprecise probability and robust Bayes; (2) propagation of uncertainty through complex computations; (3) code optimization on GPUs and super computers.
 
-I am also interested in: mathematics-based animations, pattern recognition in time-history data, neural ODEs, web-based research software. 
+I am also interested in: mathematics-based animations, rigorous computing, computer-aided proofs, time-history data, neural ODEs, web-based research software. 
 
-My research is helping shading more light on: (-) digital twins technology, (-) hard-to-diagnose diseases, (-) high-magnitude earthquakes in urban areas, (-) the quantification of measurement errors and modelling uncertainties in engineering. 
+My research is helping casting more light on: * digital twins technology, * hard-to-diagnose diseases, * quantification of uncertainty in engineering and machine learning; the latter include: measurement uncertainty (stats & eng), population uncertainty (stats), input uncertainty (eng), truncation error (eng & cs), roundoff error (eng & cs), generalization error (ml & cs), confidence and prediction uncertainty (ml & cs).
 
 <!--My research focuses on the rigorous and efficient bounding of computational codes via both intrusive and non-intrusive algorithms.
 
