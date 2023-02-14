@@ -13,7 +13,7 @@ On the qualitative side the focus is on data semantics to allow for findability,
 
 <!--My research focuses on theoretical and practical aspects of computing with uncertainty. My areas of interest are: (1) rigorous inference from small-sized datasets with imprecise probability and robust Bayes; (2) propagation of uncertainty through complex computations; (3) code optimization on GPUs and super computers.-->
 
-I am also interested in: mathematics-based artwork, interval computing, computer-aided proofs, physics informed neural networks, web-based research software. 
+I am also interested in: mathematics-based artwork, computer-aided proofs, physics informed neural networks, web-based research software. 
 
 <!--My research is helping casting more light on: * digital twins technology, * hard-to-diagnose diseases, * quantification of uncertainty in engineering and machine learning; the latter include: measurement uncertainty (stats & eng), population uncertainty (stats), input uncertainty (eng), truncation error (eng & cs), roundoff error (eng & cs), generalization error (ml & cs), confidence and prediction uncertainty (ml & cs).-->
 
@@ -22,7 +22,7 @@ I am also interested in: mathematics-based artwork, interval computing, computer
 
 <!--💬 Ask me about: interval analysis, probability-bounds analysis, reliability analysis, diagnostic uncertainty, error propagation, senstivity analysis, belief networks.-->
 
-Most of the software I write is on GitHub.
+<!--Most of the software I write is on GitHub.-->
 
 🎓 I hold a PhD in engineering from the University of Liverpool. 
 
