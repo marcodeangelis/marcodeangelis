@@ -4,8 +4,11 @@ I am a Lecturer in Engineering at the University of Strathclyde.
 
 <!--I'm a research associate (postdoc) at the University of Liverpool. -->
 
-🔭 My research investigates quantitative and qualitative methods to increase trust in digital twins. On the quantitative side, the focus is on rigorous physics-based simulation comprising: inference from small and uncertain data, automatic uncertainty propagation, and optimisation. 
-On the qualitative side the focus is on data semantics to allow for findability, accessibility, transparency and traceability. For example, any data should always travel with its ontological metadata for contextualisation. Data semantics are foundational to trust in digital twins.
+🔭 I am interested in understanding the complexity of computation with imprecisely specified numbers with application to structural reliability and machine learning.
+
+
+<!--My research investigates quantitative and qualitative methods to increase trust in digital twins. On the quantitative side, the focus is on rigorous physics-based simulation comprising: inference from small and uncertain data, automatic uncertainty propagation, and optimisation. 
+On the qualitative side the focus is on data semantics to allow for findability, accessibility, transparency and traceability. For example, any data should always travel with its ontological metadata for contextualisation. Data semantics are foundational to trust in digital twins.-->
 
 
 <!--My research focuses on theoretical and practical aspects of computing with uncertainty. My areas of interest are: (1) rigorous inference from small-sized datasets with imprecise probability and robust Bayes; (2) propagation of uncertainty through complex computations; (3) code optimization on GPUs and super computers.-->
@@ -19,7 +22,7 @@ I am also interested in: mathematics-based artwork, interval computing, computer
 
 <!--💬 Ask me about: interval analysis, probability-bounds analysis, reliability analysis, diagnostic uncertainty, error propagation, senstivity analysis, belief networks.-->
 
-Most of the software I write is available on GitHub.
+Most of the software I write is on GitHub.
 
 🎓 I hold a PhD in engineering from the University of Liverpool. 
 
