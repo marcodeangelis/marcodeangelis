@@ -1,11 +1,10 @@
-### Hi there 👋 
+### Hi 👋 
 
 I am a Lecturer in Engineering at the University of Strathclyde.
 
 <!--I'm a research associate (postdoc) at the University of Liverpool. -->
 
-🔭 I am interested in understanding the complexity of computation with imprecisely specified numbers with application to structural reliability and machine learning.
-
+🔭 I am interested in the complexity and efficiency of computation carried out with imprecisely specified numbers for verification and uncertainty propagation.
 
 <!--My research investigates quantitative and qualitative methods to increase trust in digital twins. On the quantitative side, the focus is on rigorous physics-based simulation comprising: inference from small and uncertain data, automatic uncertainty propagation, and optimisation. 
 On the qualitative side the focus is on data semantics to allow for findability, accessibility, transparency and traceability. For example, any data should always travel with its ontological metadata for contextualisation. Data semantics are foundational to trust in digital twins.-->
@@ -13,7 +12,7 @@ On the qualitative side the focus is on data semantics to allow for findability,
 
 <!--My research focuses on theoretical and practical aspects of computing with uncertainty. My areas of interest are: (1) rigorous inference from small-sized datasets with imprecise probability and robust Bayes; (2) propagation of uncertainty through complex computations; (3) code optimization on GPUs and super computers.-->
 
-I am also interested in: mathematics-based artwork, computer-aided proofs, physics informed neural networks, web-based research software. 
+<!--MyI am also interested in: mathematics-based artwork, computer-aided proofs, physics-informed neural networks, web-based research software. -->
 
 <!--My research is helping casting more light on: * digital twins technology, * hard-to-diagnose diseases, * quantification of uncertainty in engineering and machine learning; the latter include: measurement uncertainty (stats & eng), population uncertainty (stats), input uncertainty (eng), truncation error (eng & cs), roundoff error (eng & cs), generalization error (ml & cs), confidence and prediction uncertainty (ml & cs).-->
 
